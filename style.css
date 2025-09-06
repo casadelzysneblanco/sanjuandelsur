@@ -1,0 +1,108 @@
+/* .slideshow {
+  height: 94vh;
+  width: 100vw;
+  border-top: black solid 4px;
+  border-bottom: black solid 4px;
+}
+
+@media only screen and (max-width: 500px){
+  .slideshow {
+    object-fit: cover;
+  }
+} */
+
+h1 {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+font-size: 3rem;
+padding-top: 0.5rem;
+/* margin-left: -6em; */
+}
+
+p {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.2em;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+
+.content {
+  margin-left: 2em;
+  margin-right: 2em;
+  text-align: center;
+  margin-top: 2em;
+}
+
+.top {
+  height: 100dvh;
+  width: 100dvw;
+  margin-bottom: 8rem;
+  margin-top: 2rem;
+}
+
+.slide {
+  width: 100dvw;
+  margin-bottom: 4rem;
+  margin-top: 2rem;
+}
+
+body {
+  background-color: #f2f2f2;
+}
+
+.container-fluid {
+  --bs-gutter-x: 0;
+}
+
+.hero {
+  width: 96dvw;
+  height: 88dvh;
+  object-fit: fill;
+  border: black 10px solid;
+  border-radius: 10px;
+}
+
+.logo {
+  height: 6rem;
+  width: 6rem;
+  border-radius: 50%;
+  margin-left: 4rem;
+  margin-right: 1rem;
+}
+
+.banner {
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .logo {
+    height: 5rem;
+    width: 5rem; /* Example: make it 80% of container on larger screens */
+    margin-top: 2rem;;
+  }
+  h1 {
+    font-size: 3.5rem;
+    margin-right: 0.4rem;
+  }
+}
+
+.card {
+  width: 23rem;
+  height: 28rem;
+  border: 2px solid black;
+  box-shadow: 20px 15px gray;
+  margin: 1.5rem 1.5rem 2.5rem 1.5rem;
+}
+
+.card-img-top {
+  border-bottom: 2px solid black;
+  height: 24rem;
+}
+
+.card-text {
+  font-weight: bold;
+}
