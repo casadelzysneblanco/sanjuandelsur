@@ -87,6 +87,12 @@ body {
     font-size: 3.5rem;
     margin-right: 0.4rem;
   }
+  .air {
+    margin-top: 1rem;
+  }
+  .content {
+    margin-top: 3rem;
+  }
 }
 
 .card {
