@@ -37,13 +37,13 @@ h2, h3, h4, h5 {
   margin-left: 2em;
   margin-right: 2em;
   text-align: center;
-  margin-top: 2em;
+  margin-top: 8rem;
 }
 
 .top {
   height: 100dvh;
   width: 100dvw;
-  margin-bottom: 8rem;
+  margin-bottom: 6rem;
   margin-top: 2rem;
 }
 
@@ -95,7 +95,7 @@ body {
     margin-top: 1rem;
   }
   .content {
-    margin-top: 3rem;
+    margin-top: 10rem;
   }
 }
 
