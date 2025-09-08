@@ -15,9 +15,9 @@ h1 {
   font-family: "Pacifico", cursive;
   font-weight: 400;
   font-style: normal;
-font-size: 3rem;
-padding-top: 0.5rem;
-/* margin-left: -6em; */
+  font-size: 3rem;
+  padding-top: 0.5rem;
+  /* margin-left: -6em; */
 }
 
 p {
@@ -28,7 +28,6 @@ p {
   text-align: justify;
   text-justify: inter-word;
 }
-
 
 .content {
   margin-left: 2em;
@@ -82,7 +81,7 @@ body {
   .logo {
     height: 5rem;
     width: 5rem; /* Example: make it 80% of container on larger screens */
-    margin-top: 2rem;;
+    margin-top: 2rem;
   }
   h1 {
     font-size: 3.5rem;
@@ -105,4 +104,25 @@ body {
 
 .card-text {
   font-weight: bold;
+}
+
+.move {
+  margin-left: 2rem;
+}
+
+.home-btn {
+margin-top: 3rem;
+margin-bottom: 3rem;;
+}
+
+.lower-btn {
+  margin-bottom: 3rem;;
+}
+
+.contactos {
+  margin-left: 0.5rem;
+}
+
+.air {
+  margin-left: 0.5rem;
 }
