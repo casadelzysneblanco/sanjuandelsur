@@ -17,7 +17,6 @@ h1 {
   font-style: normal;
   font-size: 3rem;
   padding-top: 0.5rem;
-  /* margin-left: -6em; */
 }
 
 .comunicar {
@@ -53,19 +52,20 @@ h2, h3, h4, h5 {
 
 .top {
   height: 100vh;
-  width: 100dvw;
+  width: 100vw;
   margin-top: 2rem;
   margin-bottom: 4rem;
 }
 
 .slide {
-  width: 100dvw;
+  width: 100vw;
   margin-bottom: 4rem;
   margin-top: 2rem;
 }
 
 body {
-  background-color: #f2f2f2;
+  background-color: #FAF9F7;
+  color: #333333;
 }
 
 .container-fluid {
@@ -73,7 +73,7 @@ body {
 }
 
 .hero {
-  width: 96dvw;
+  width: 96vw;
   height: 86vh;
   object-fit: fill;
   border: black 10px solid;
