@@ -73,7 +73,7 @@ body {
 
 .hero {
   width: 96dvw;
-  height: 86dvh;
+  height: 86vh;
   object-fit: fill;
   border: black 10px solid;
   border-radius: 10px;
@@ -108,7 +108,7 @@ body {
     margin-top: 4rem;
   }
   .hero {
-    height: 88dvh;
+    height: 88vh;
   }
 }
 
