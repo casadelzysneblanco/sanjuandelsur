@@ -54,7 +54,6 @@ h2, h3, h4, h5 {
 .top {
   height: 100dvh;
   width: 100dvw;
-  margin-bottom: 6rem;
   margin-top: 2rem;
 }
 
@@ -104,9 +103,6 @@ body {
   }
   .air {
     margin-top: 1rem;
-  }
-  .content {
-    margin-top: 10rem;
   }
   .content2 {
     margin-top: 4rem;
