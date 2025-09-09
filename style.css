@@ -20,6 +20,10 @@ h1 {
   /* margin-left: -6em; */
 }
 
+.comunicar {
+    margin-bottom: 2rem;
+  }
+
 p {
   font-family: "Josefin Sans", sans-serif;
   font-weight: 400;
@@ -70,7 +74,7 @@ body {
 
 .hero {
   width: 96dvw;
-  height: 88dvh;
+  height: 86dvh;
   object-fit: fill;
   border: black 10px solid;
   border-radius: 10px;
@@ -95,7 +99,7 @@ body {
     margin-top: 2rem;
   }
   h1 {
-    font-size: 3.5rem;
+    font-size: 2.9rem;
     margin-right: 0.4rem;
   }
   .air {
